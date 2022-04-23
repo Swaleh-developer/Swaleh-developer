@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swaleh-developer 
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in Machine Learning/Deep Learning 
+- 🌱 I’m comfortable with CNNs, Practising Generative Adversarial Nets
+- 💞️ I’m looking to collaborate on machine learning/DL
 - 📫 you can reach me via Twitter @swashcos
 
 <!---
